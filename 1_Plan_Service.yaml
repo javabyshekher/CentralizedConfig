@@ -3,4 +3,4 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/plan_schema
-message: Hi Hi Hi
+message: Hi Hi Hi Hi
